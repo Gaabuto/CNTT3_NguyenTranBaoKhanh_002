@@ -41,7 +41,8 @@ SecurityConfig: cấu hình exceptionHandling().authenticationEntryPoint(...).
 Nhờ đó, mọi lỗi token đều trả về cùng một định dạng JSON mà không cần xử lý ở từng Filter.
 
 2. Lịch sử Prompt
-   Prompt 1
+
+Prompt 1
 
 Hãy sửa lỗi MalformedJwtException trong JwtAuthenticationFilter.
 
