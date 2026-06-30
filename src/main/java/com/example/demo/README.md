@@ -7,6 +7,7 @@ InsuranceStrategy: xử lý tính phí theo từng loại bảo hiểm.
 PaymentStrategy: xử lý từng cổng thanh toán.
 NotificationService: xử lý gửi thông báo (SMS, Zalo ZNS,...).
 ClinicBillingService chỉ gọi các interface, không chứa if-else cho từng loại bảo hiểm hay thanh toán.
+
 2. Lịch sử Prompt
    Prompt 1
 
